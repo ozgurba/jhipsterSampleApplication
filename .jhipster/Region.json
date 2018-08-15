@@ -1,0 +1,19 @@
+{
+    "name": "Region",
+    "fields": [
+        {
+            "fieldName": "saatdakika",
+            "fieldType": "Instant"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20180815154300",
+    "entityTableName": "region",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}
